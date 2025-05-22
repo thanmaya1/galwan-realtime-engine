@@ -12,3 +12,4 @@ aoi = BBox(bbox=[center_lon - 0.05, center_lat - 0.05,
            crs=CRS.WGS84)
 print(aoi)
 
+
