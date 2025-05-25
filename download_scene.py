@@ -46,7 +46,7 @@ request = SentinelHubRequest(
     bbox=aoi,
     size=(1024, 1024),  # High resolution for sharp imagery
     config=config,
-    data_folder="C:/Users/anon/OneDrive/Desktop/military_tracking"
+    data_folder="C:/Users/anon/OneDrive/Desktop/eatgrass"
 )
 
 # Run request
