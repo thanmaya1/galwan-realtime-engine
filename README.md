@@ -55,13 +55,13 @@ CREATE TABLE events (
     event_time TIMESTAMP,
     location GEOMETRY(Point, 4326)
 );
-3. **Simulate Real-Time Insertion
+3. **Simulate Real-Time Insertion**
 
 Run:
-
-
 python redis_simulator.py
 python redis_to_postgis.py
+
+
 4. **Generate All Maps**
 
 python generate_filtered_map.py
