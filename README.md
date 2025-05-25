@@ -31,26 +31,9 @@ Each event is stored in PostgreSQL with PostGIS. Redis pub-sub used for real-tim
 
 ## 🗂️ File Structure
 
-eatgrass/
-├── bakhmut_aoi.py # AOI polygon definition
-├── download_scene.py # Fetch Sentinel-2 imagery
-├── convert_to_geotiff.py # Convert satellite images to GeoTIFF
-├── redis_simulator.py # Publishes simulated events to Redis
-├── redis_subscriber.py # Subscribes to Redis and prints live events
-├── redis_to_postgis.py # Inserts Redis events into PostGIS
-├── insert_old_event.py # Test event from past (for filtering)
-├── insert_recent_event.py # Test event from now (for display)
-├── generate_filtered_map.py # Shows last 24hr events only
-├── generate_clustered_map.py # Cluster view of events
-├── generate_heatmap.py # Heatmap of event intensity
-├── time_slider_map.py # Interactive timeline map
-├── dashboard.html # Clean landing page for maps
-├── filtered_map.html
-├── clustered_map.html
-├── heatmap.html
-├── time_slider_map.html
-├── requirements.txt
-└── README.md
+
+![image](https://github.com/user-attachments/assets/42480fb3-2a3e-4d4e-ad08-4aa3f6c6275f)
+
 
 ---
 
@@ -90,9 +73,9 @@ python time_slider_map.py
 
 Open dashboard.html in browser.
 
-📸## Sample Screenshot
+## 📸 Sample Screenshot
 
-🔭 ## Vision
+## 🔭 Vision
 This is a foundation for:
 
 Disaster monitoring
@@ -103,6 +86,6 @@ Urban safety systems
 
 Built using simple, non-Dockerized tools for fast prototyping and full transparency.
 
-🤖 ## Author
+## 🤖 Author
 Made with 💻 and 🌍 by Thanmaya
 
