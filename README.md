@@ -74,6 +74,11 @@ python time_slider_map.py
 Open dashboard.html in browser.
 
 ## 📸 Sample Screenshot
+![image](https://github.com/user-attachments/assets/071a85de-bc15-42cc-b9f3-42393717a717)
+![image](https://github.com/user-attachments/assets/38de009f-b430-4620-9298-ef57b4cad862)
+![image](https://github.com/user-attachments/assets/18fe7581-0ff9-4d42-a21e-274fa371e08e)
+![image](https://github.com/user-attachments/assets/7f21b6d1-b4bd-4a87-8b8c-8e537227220a)
+![image](https://github.com/user-attachments/assets/f37c48db-8d2e-4c36-b5c9-9cbc19a5f956)
 
 ## 🔭 Vision
 This is a foundation for:
